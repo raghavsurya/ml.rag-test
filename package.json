@@ -1,0 +1,23 @@
+{
+  "name": "ml.rag-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --config .jestrc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
+    "jest-cli": "^23.6.0"
+  }
+}
